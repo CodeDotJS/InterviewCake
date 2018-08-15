@@ -30,4 +30,6 @@ const words = [
 ];
 ```
 
-Write a function for nding the index of the "rotation point," which is where I started working from the beginning of the dictionary. This array is huge (there are lots of words I don't know) so we want to be efficient here.
+__Write a function for nding the index of the "rotation point,"__ which is where I
+started working from the beginning of the dictionary. This array is huge (there are
+lots of words I don't know) so we want to be ef cient here
