@@ -16,7 +16,7 @@ time.
 
 So if the stock cost $500 at 10:30am, that means `stockPrices[60] = 500`.
 
-Write an effcient function that takes stockPrices and returns __the best proft I could
+Write an effcient function that takes `stockPrices` and returns __the best proft I could
 have made from one purchase and one sale of one share of Apple stock
 yesterday__.
 
