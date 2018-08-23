@@ -1,6 +1,6 @@
 ## Hooray! It's opposite day. Linked lists go the opposite way today.
 
-Write a function for reversing a `linked list`. Do in __`in place`__ (algorithm).
+Write a function for reversing a `linked list`. Do it __`in place`__ (algorithm).
 
 Your function will have one input: the head of the list.
 
